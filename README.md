@@ -22,11 +22,11 @@ Or install it yourself as:
 
     $ "StringObject".facer
 
-        or simply
+    or simply
 
     $ facer("StringObject")
 
-        are result in
+    are result in
 
     $ => ｻｯ!彡( ´・ω・)p[ StringObject ]q
 
