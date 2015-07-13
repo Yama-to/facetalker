@@ -34,11 +34,19 @@ or simply
 facer("StringObject")
 ```
 
+or much more simply
+
+```ruby
+facer
+```
+
 are result in
 
-**`ｻｯ!彡( ´・ω・)p[ StringObject ]q`**
+**`ｻｯ!彡( ´・ω・)p[ hello! ]q`**
 
-**You can STRESS your NAME or other STRINGs in a quite simple way!!**
+of cource, she can say words other than default 'hello!'.
+
+**So, you can STRESS your NAME or other STRINGs in a quite simple way!!**
 
 ## Development
 

@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["wonka.bm@gmail.com"]
   s.homepage    = "https://github.com/Yama-to/facetalker.git"
   s.summary     = "You wanna talk with somebody just say hello? haha!"
-  s.description = "FUNNY GEM: She is someone who just say hello to you, anytime, anywhere."
+  s.description = "[Stable] FUNNY GEM: She is someone who just say hello to you, anytime, anywhere."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
