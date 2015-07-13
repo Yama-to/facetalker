@@ -12,25 +12,33 @@ gem 'facetalker'
 
 And then execute:
 
-    $ bundle
+```ruby
+bundle
+```
 
 Or install it yourself as:
 
-    $ gem install facetalker
+```bash
+$ gem install facetalker
+```
 
 ## Usage
 
-    $ "StringObject".facer
+```ruby
+"StringObject".facer
+```
 
-    or simply
+or simply
 
-    $ facer("StringObject")
+```ruby
+facer("StringObject")
+```
 
-    are result in
+are result in
 
-    $ => ｻｯ!彡( ´・ω・)p[ StringObject ]q
+**`ｻｯ!彡( ´・ω・)p[ StringObject ]q`**
 
-  You can STRESS your NAME or other STRINGs in a quite simple way!!
+**You can STRESS your NAME or other STRINGs in a quite simple way!!**
 
 ## Development
 
